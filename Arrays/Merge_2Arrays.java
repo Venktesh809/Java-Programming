@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Merge_2Arrays {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		Scanner sc = new Scanner (System.in);
 		System.out.println("Enter the length of 1st array");
 		int size = sc.nextInt();
