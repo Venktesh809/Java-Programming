@@ -22,14 +22,6 @@ public class Add_Two_array_Using_newArray {
 		int ar3[] = new int[size];
 		int indx=0;
 		int temp;
-//		
-//		for(int i=0; i<ar1.length; i++) {
-//			ar3[indx++] = ar1[i];
-//		}
-//		for(int j=0; j<ar2.length; j++) {
-//			ar3[indx++] = ar2[j];
-//		}
-		
 		
 		for(int i=0; i< ar3.length-1 ; i++) {
 			 temp = ar1[i] + ar2[i];	 
