@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PrimeNo_GivenRange {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		Scanner sc= new Scanner(System.in);
 		System.out.println("Give Starting range ");
 		int s1 = sc.nextInt();
