@@ -21,7 +21,6 @@ public class Palindrom_No_From_GivenRange {
 		
 		
 		for(int i= m; i<=n; i++) {
-//			System.out.println(i);
 			int org = i;
 			int no = i;
 			int rem=0;
