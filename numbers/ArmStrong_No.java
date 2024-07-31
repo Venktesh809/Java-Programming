@@ -33,7 +33,7 @@ public class ArmStrong_No {
 			
 			
 		}
-//		System.out.println(sum);
+
 		if(sum == n) {
 			System.out.println("this is ArmStrong no. ");
 		}
