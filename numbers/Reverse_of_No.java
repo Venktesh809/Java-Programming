@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Reverse_of_No {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the no.");
 		int n = sc.nextInt();
@@ -15,8 +15,6 @@ public class Reverse_of_No {
 		while(n2 != 0) {
 			rem = n2 % 10;
 			revs=revs * 10 + rem;
-	
-//			System.out.print(rem);		// direct reverse print
 			n2/=10;
 		}
 		System.out.println(revs);
