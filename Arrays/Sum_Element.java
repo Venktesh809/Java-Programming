@@ -17,12 +17,6 @@ public class Sum_Element {
 				sum = sum + ar[i] ;
 			}
 			
-			
-//				print stored array element
-//			for(int j:ar) {
-//				System.out.println(j);
-//			}
-			
 			System.out.println(sum);
 			
 	}
