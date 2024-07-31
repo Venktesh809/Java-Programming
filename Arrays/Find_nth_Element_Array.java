@@ -18,17 +18,7 @@ public class Find_nth_Element_Array {
 		for(int i=0; i<size; i++) {
 			arr[i] = sc.nextInt();
 		}
-		
-	//		find element in array present or not 
-/*		for(int j:arr) {
-			if(j == nth) {
-				System.out.println(j);
-			}
-			
-		}
-*/  
-		
-		
+				
 		
 //		find element of nth index  		
 		for(int j=1; j<=size; j++) {	// star 1 because compare the nth (count)
