@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SumOf_Even_Or_Odd_Element {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner sc = new Scanner (System.in);
 		System.out.println("Enter the length of array");
 		int size = sc.nextInt();
